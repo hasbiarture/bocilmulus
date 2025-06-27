@@ -1,2 +1,1 @@
-# bocilmulus
-bocilmulus
+# [bocilmulus](https://bocilmulus.pages.dev)
